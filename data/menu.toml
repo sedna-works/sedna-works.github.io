@@ -1,0 +1,20 @@
+[[entries]]
+title = "Info"
+
+entries = [
+  { title = "Github: https://github.com/sedna-works" },
+  { title = "Email: helloryouji@outlook.com" },
+]
+
+[[entries]]
+title = "Chore"
+  [entries.post_list]
+  section = "chore"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "chore"
+
+
+[[entries]]
+title = "Follow RSS"
+url = "index.xml"
