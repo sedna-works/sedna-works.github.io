@@ -1,0 +1,5 @@
+baseURL = 'https://sedna-works.github.io/'
+languageCode = 'zh-cn'
+title = 'Sedna Works'
+
+theme = 'hugo-book'
