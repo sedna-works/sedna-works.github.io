@@ -1,7 +1,7 @@
 baseURL = 'https://sedna-works.github.io'
 languageCode = 'zh-cn'
 title = "Sedna Works"
-theme = 'hugo-mini'
+theme = 'hugo-book'
 
 [params]
 
@@ -37,3 +37,10 @@ theme = 'hugo-mini'
     startLevel = 2
     endLevel   = 6
     ordered    = false
+
+
+[menu]
+[[menu.home]]
+  name = 'Chore'
+  pageRef = '/chore/'
+  weight = 1
